@@ -10,4 +10,4 @@ V posameznih mapah boste našli rešitve nalog, ki smo jih reševali na vajah. V
 
 ## Standardi pisanja kode
 
-Ker je poleg tega, da program deluje pravilno zelo pomembno tudi dejstvo, da je program berljiv človeškim osebkom (poleg vas tudi drugim študentom, profesorjem, asistentom in ne nazadnje sodelavcem), je lepo, da se pri programiranju držimo nekih standardov. Kratek uvod v "lep" C si lahko ogledate na strani z [navodili](http://fiz-rp.readthedocs.io/sl/latest/), ki jo prijazno ureja in posodablja Simon Weiss.
+Ker je poleg tega, da program deluje pravilno zelo pomembno tudi dejstvo, da je program berljiv človeškim osebkom (poleg vas tudi drugim študentom, profesorjem, asistentom in ne nazadnje sodelavcem), je lepo, da se pri programiranju držimo nekih standardov. Kratek uvod v "lep" C si lahko ogledate na strani z [navodili](http://fiz-rp.readthedocs.io/en/latest/), ki jo prijazno ureja in posodablja Simon Weiss.
