@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 
 // Za dodatno preverjanje vključimo header file, da se tipi zagotovo ujemajo
 #include "tabele.h"
